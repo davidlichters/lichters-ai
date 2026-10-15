@@ -4,6 +4,6 @@ In 2023 I clicked on a video called "How To Make Money on Fiverr Without Skills"
 
 **Result: 0 euros.** No sales that I have any record of.
 
-Later, when I was running a business, I became a buyer on Fiverr myself and paid freelancers for tasks I could not do well.
+Later, when I was running a business, I became a buyer on Fiverr myself and paid freelancers for tasks that weren't worth my time. I could do them myself, but it was faster to work on my business and pay a freelancer with that money.
 
 More: [All business models](https://lichtersapps.com/ai/index.md) · [Founder story](https://lichtersapps.com/ai/story.md)
