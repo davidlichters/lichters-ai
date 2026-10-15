@@ -49,6 +49,4 @@ I also tried a made-up trainer character with a fake weight-loss story, and a bo
 
 **August to October 2026: Liquidationsradar.** Emails warning trade businesses when a nearby company went bankrupt. 0 paying customers. https://lichtersapps.com/ai/data-products.md
 
-**Since late September 2026:** AI dropshipping, a dog shop with a friend. https://lichtersapps.com/ai/dropshipping.md
-
 Four years, more than fifteen models, a first sale of 25 EUR. Still going.

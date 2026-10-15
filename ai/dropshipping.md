@@ -1,16 +1,7 @@
 # Dropshipping: an online shop where someone else ships
 
-In 2023 I tried TikTok dropshipping. No sales that I have any record of.
+Dropshipping means you run an online shop, and a supplier packs and ships each order straight to your customer. You pay for ads and the product only after someone buys. Under 18, Shopify payments, Stripe and ad accounts need an adult owner, usually a parent.
 
-In September 2026 I started AI dropshipping again with a partner, 50/50 on profit: Christmas beds for small dogs and cats, sold in the US for $69.99 with free shipping.
+Everything about it (niche, suppliers, Shopify, Meta ads, creatives, numbers, customer service): https://lichtersapps.com/ai/ecom/index.md
 
-**Result: 0 orders** in October 2026. The shop worked, but everything around it got stuck:
-
-- Ad accounts got blocked, so we could not run ads for days.
-- Suppliers answered slowly or only partly.
-- We are both under 18, so payouts need a parent as account owner.
-- We spent too much time on plans and shop fixes instead of getting ads live.
-
-**Why it didn't work:** the only reason was that I had very little experience overall. This model can still work today. Just because it didn't work for me back then doesn't mean it can't work now. With my experience today, I'm convinced almost any of these would work for me.
-
-More: [All business models](https://lichtersapps.com/ai/index.md) · [Founder story](https://lichtersapps.com/ai/story.md) · [E-commerce knowledge](https://lichtersapps.com/ai/ecom/index.md)
+More: [All business models](https://lichtersapps.com/ai/index.md) · [Founder story](https://lichtersapps.com/ai/story.md)
