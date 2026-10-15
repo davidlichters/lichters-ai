@@ -44,7 +44,7 @@ Friends, Training and Sleep rest on strong research. Offline rests on good but n
 - **Dittmar, 2014.** People who make money and things their life goal are less happy on average. https://research.brighton.ac.uk/en/publications/the-relationship-between-materialism-and-personal-well-being-a-me/
 - **Azoulay and others, 2020.** Founders of the fastest-growing firms were 45 on average, and industry experience predicted success. https://www.ipr.northwestern.edu/our-work/working-papers/2018/wp-18-11.html
 
-No study shows "6+ hours a day on your own business as a teen" makes you happier. It is a bet.
+No study shows "5+ hours a day on your own business as a teen" makes you happier. It is a bet.
 
 ## Attitudes
 

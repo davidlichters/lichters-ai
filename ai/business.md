@@ -1,12 +1,12 @@
-# Business: 6+ focused hours a day
+# Business: 5+ focused hours a day
 
-Spend 6+ focused hours on your own business every day, starting as young as you can, because skill and luck both pile up over years, not weeks.
+Spend 5+ focused hours on your own business every day, starting as young as you can, because skill and luck both pile up over years, not weeks.
 
 ## The rule
 
-Tick **b** when you did 6+ focused hours on your own business today.
+Tick **b** when you did 5+ focused hours on your own business today.
 
-- Set a timer for 6 hours. Pause it when you stop working.
+- Set a timer for 5 hours. Pause it when you stop working.
 - Phone in another room, or face down with notifications off.
 - Only work that moves your business counts: building, making, selling, talking to customers, learning a skill you need this week.
 - Watching business videos or "planning" without doing does not count.
@@ -16,7 +16,7 @@ Tick **b** when you did 6+ focused hours on your own business today.
 
 **Time is the one thing you have more of at 13 than at 30.** Most first attempts fail. Start at 13 and you can fail five times and still be 18. Start at 25 and each failure costs a year of rent.
 
-**Six hours a day is about 2,200 hours a year.** Enough to get properly good at one thing: editing videos, building apps, selling, writing.
+**Five hours a day is about 1,800 hours a year.** Enough to get properly good at one thing: editing videos, building apps, selling, writing.
 
 **A few hard years early pay off for life.** I think your own business is the biggest lever for a happier life: freedom over your time, place and work. At 13 I worked many hours beside school.
 
@@ -24,7 +24,7 @@ Tick **b** when you did 6+ focused hours on your own business today.
 
 1. **Pick one model, not five.** Read https://lichtersapps.com/ai/business-start.md first.
 2. **Fix the time.** The same time every day works best. If you have a Courage task (c), do it right before.
-3. **Write one sentence before you start:** "In these 6 hours I will ___." One clear result, like "post 1 video" or "message 10 possible customers". An example split: 1 hour finding customers, 4 hours building or selling, 1 hour talking to people.
+3. **Write one sentence before you start:** "In these 5 hours I will ___." One clear result, like "post 1 video" or "message 10 possible customers". An example split: 1 hour finding customers, 3 hours building or selling, 1 hour talking to people.
 4. **Start the timer, phone away.**
 5. **Stop and write one line:** what you did, and one number (videos, people asked, sales, euros).
 6. **Give each idea a fair test.** Decide the test length before you start, and only switch when that time is over.

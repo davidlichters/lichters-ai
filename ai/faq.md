@@ -8,11 +8,11 @@ Nothing happens. The day stays empty and you tick the next one. Two in a row is 
 
 ## I don't have a business. Can I still tick b?
 
-Yes, if you spend the 6+ focused hours building one: looking for a problem people pay to solve, talking to possible customers, making a first small offer. Watching videos about "how to start a business" mostly doesn't count. Your first idea will probably fail. That's fine at 13. More: https://lichtersapps.com/ai/business.md
+Yes, if you spend the 5+ focused hours building one: looking for a problem people pay to solve, talking to possible customers, making a first small offer. Watching videos about "how to start a business" mostly doesn't count. Your first idea will probably fail. That's fine at 13. More: https://lichtersapps.com/ai/business.md
 
-## What if I have no time for 6 hours on school days?
+## What if I have no time for 5 hours on school days?
 
-6 hours school, 9 sleep, 2 training and 1 for meals leave 6. Friends fit into breaks and lunch; free periods count. Many people also find hours in their feeds. On weekends and holidays, do more. If school is really full that week, school comes first. Never cut sleep for it.
+6 hours school, 9 sleep, 2 training and 1 for meals leave 6, enough for 5. Friends fit into breaks and lunch; free periods count. Many people also find hours in their feeds. On weekends and holidays, do more. If school is really full that week, school comes first. Never cut sleep for it.
 
 ## Why these six habits?
 
@@ -20,7 +20,7 @@ The goal is the happiest whole life, not just the happiest teen years. So the li
 
 ## How do I fit all six into a school day?
 
-An example: up at 7:00. Lunch with friends, phones away (f). One ask during the day (c). 1 hour of Business in free periods (b). 14:00 to 17:00 Business, phone in another room (b). 17:00 gym or sport (t). 19:30 to 21:30 Business again (b). Feeds only after the ticks, under 30 minutes (o). 21:30 phone out of the bedroom (s).
+An example: up at 7:00. Lunch with friends, phones away (f). One ask during the day (c). 14:00 to 17:00 Business, phone in another room (b). 17:00 gym or sport (t). 19:30 to 21:30 Business again (b). Feeds only after the ticks, under 30 minutes (o). 21:30 phone out of the bedroom (s).
 
 ## Can I change or add habits?
 

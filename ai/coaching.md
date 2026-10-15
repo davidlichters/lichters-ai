@@ -16,7 +16,7 @@ A check-in is a tiny conversation, not a lecture. Someone asks you the same few 
 
 **1. Do the setup once.** For each habit (f, c, b, t, o, s), write one line: what counts as done (the app's rule, not a softer one), the time, the place, and the one thing most likely to stop you plus your plan for it.
 
-Example for b: "6 focused hours: 1 hour in free periods, 14:00 to 17:00 and 19:30 to 21:30, desk in my room, phone in the kitchen. Danger: YouTube on the laptop. Plan: block it during the timer."
+Example for b: "5 focused hours: 14:00 to 17:00 and 19:30 to 21:30, desk in my room, phone in the kitchen. Danger: YouTube on the laptop. Plan: block it during the timer."
 
 **2. Check in once a day, at the same time.** Three questions:
 

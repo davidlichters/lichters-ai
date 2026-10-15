@@ -24,7 +24,7 @@ After a few months the grid shows your real average. 80% filled with a few gaps 
 2. **Make the bad-day version tiny.** Sick or tired? Training becomes a 30-minute walk. Business becomes 20 minutes on the smallest task.
 3. **Zoom out once a month.** Is this month greener than last month?
 4. **Write down why you missed.** Same excuse every time? Fix that one thing.
-5. **Change the method, not the habit.** If your business idea earns nothing for months, switch the idea. Keep the 6+ hours a day.
+5. **Change the method, not the habit.** If your business idea earns nothing for months, switch the idea. Keep the 5+ hours a day.
 
 ## Mistakes
 
