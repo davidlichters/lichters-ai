@@ -4,7 +4,8 @@ Your phone leaves your bedroom at the same time every night, and you go to bed e
 
 ## The rule
 
-- Pick a fixed time. At that time, your phone goes out of your bedroom.
+- Pick a fixed time. At that time, your phone goes out of your bedroom, or stays only as your alarm: airplane mode, face down, out of reach.
+- Tip from me: I use the Sleep Cycle app as my alarm. It works in airplane mode and wakes you in a light sleep phase, so getting up feels much easier.
 - Lights out early enough for 8 to 10 hours of sleep. If you are 18 or older, 7 to 9 hours.
 - Tick the habit the moment you put the phone away.
 - Optional last step: write down 3 good things from today that you have never written down before.
