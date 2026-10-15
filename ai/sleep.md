@@ -4,11 +4,10 @@ Your phone leaves your bedroom at the same time every night, and you go to bed e
 
 ## The rule
 
-- Pick a fixed time. At that time, your phone goes out of your bedroom, or stays only as your alarm: airplane mode, face down, out of reach.
-- Tip from me: I use the Sleep Cycle app as my alarm. It works in airplane mode and wakes you in a light sleep phase, so getting up feels much easier.
-- Lights out early enough for 8 to 10 hours of sleep. If you are 18 or older, 7 to 9 hours.
+- Stop using your phone 10 hours before you wake up.
+- Be asleep at least 8 hours before you wake up (8 to 10 hours is the range for 13 to 18).
 - Tick the habit the moment you put the phone away.
-- Optional last step: write down 3 good things from today that you have never written down before.
+- Out of all alarms I tested, Sleep Cycle wins: it wakes you in a light sleep phase. It works in airplane mode, face down, out of reach.
 
 ## Why
 
@@ -17,8 +16,6 @@ Sleep doctors in the US recommend 8 to 10 hours a night for ages 13 to 18, and 7
 Sleep is when your body repairs muscle and your brain sorts out what you learned. Short sleep makes you hungrier, moodier and worse at focusing: you skip training, scroll more, and focused hours turn foggy.
 
 In puberty your body clock shifts later, and a bright screen in bed pushes it later still. That is why the rule is about the phone, not about "trying to sleep earlier".
-
-The 3 good things end the day on what went right. "Never written before" matters: if you can repeat the same lines daily, you stop looking.
 
 ## How to start
 
@@ -40,8 +37,6 @@ The 3 good things end the day on what went right. "Never written before" matters
 Sleep was on my list early. At 13, in 2023, my rules were: devices off at 21:00, room at 16 to 18 °C, and up at 5:00. In January 2024 I wrote a sleep note: same wake time every day, no loud alarm, screen and room as dark as possible, read fantasy instead of anything that makes me angry or scared. In January 2026: "brush teeth at 20:00, the bed is a phone-free zone".
 
 Then in summer 2026 I broke it. In August I was sleeping about 6 hours a night and working until 2 or 3 am on a business. A few days later I wrote that I felt sick from being so tired. By September I was back at mostly 8 to 9 hours. When I wrote down what I want from my whole life, "physically healthy, above all sleep" was near the top.
-
-On the 3 good things: in 2023 I kept a long gratitude list, but a lot of it was not honest. I wrote things just to keep my streak alive. In April 2026 I dropped gratitude, and in September 2026 I brought it back. That is where the "never written before" rule comes from.
 
 The pattern in my notes is clear. My best months were the ones where my habit tracker was green, and sleep was always one of those habits. My worst months were the ones where I only counted money.
 

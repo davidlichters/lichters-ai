@@ -26,7 +26,7 @@ The grids show only letters (f c b t o s), so nobody looking over your shoulder 
 
 **o, Offline.** Tick when social media feeds total under 30 minutes today, checked in Screen Time. YouTube Shorts and recommended videos count as feed; one video you searched for to learn something does not. Why: students limited to about 30 minutes a day felt less lonely and less depressed (2018). Start: a 30-minute app limit, a parent holds the passcode. https://lichtersapps.com/ai/offline.md
 
-**s, Sleep.** Tick when the phone leaves the bedroom at your fixed time (or stays only as an alarm: airplane mode, face down, out of reach), early enough for 8 to 10 hours (7 to 9 from 18). Up at 6:30 means lights out by 21:30. Optional: write 3 good things you have never written before. Why: US sleep doctors recommend 8 to 10 hours for ages 13 to 18. Start: a cheap alarm clock or Sleep Cycle in airplane mode (it wakes you in a light sleep phase, so getting up is easier), one wake time, weekends too. https://lichtersapps.com/ai/sleep.md
+**s, Sleep.** Stop using your phone 10 hours before you wake up, and be asleep at least 8 hours before. Tick when the phone goes away. Why: US sleep doctors recommend 8 to 10 hours for ages 13 to 18. Start: out of all alarms I tested, Sleep Cycle wins (airplane mode, face down, out of reach), one wake time, weekends too. https://lichtersapps.com/ai/sleep.md
 
 **A school day with all six:** up at 7:00, lunch with friends phones away (f), one ask (c), 14:00 to 17:00 and 19:30 to 21:30 (b, 5 hours), 17:00 sport (t), feeds only after the ticks (o), 21:30 phone out of the bedroom (s).
 
