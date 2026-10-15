@@ -1,6 +1,6 @@
 # Fiverr: selling a skill online
 
-Fiverr was one of my first tries at making money online. My notes show it in early 2023: on 23 January 2023 I clicked on a video called "How To Make Money on Fiverr Without Skills". That title says everything about my mistake. I had no skill strangers would pay for, and I hoped the platform would do the work. My gig was around Minecraft, because that was what I knew. I stopped on 9 April 2023.
+Fiverr was my first try at making money online, from 17 May 2022 to 9 April 2023. On 23 January 2023 I clicked on a video called "How To Make Money on Fiverr Without Skills". That title says everything about my mistake. I had no skill strangers would pay for, and I hoped the platform would do the work. My gig was around Minecraft, because that was what I knew.
 
 **Result: 0 euros.** No sales that I have any record of.
 
