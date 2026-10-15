@@ -56,6 +56,5 @@ The honest numbers:
 - **First sale of my own online product: 31 October 2025**, about three years after I started. 25 euros for a fitness guide.
 - **Coaching, by the end of 2025:** about 374 euros in total.
 - **Summer 2026:** 5,820 messages through company contact forms. 15 replies, 0 sales, over 400 dollars in AI costs in four days. Mass messaging strangers is basically spam. Build something people come to you for.
-- **Since October 2026:** iOS apps. None was live yet when this page was written.
 
 Most of my attempts made nothing or lost money. The pattern is clear: I switched a lot. If I could change one thing, I would pick one model and stay with it much longer.

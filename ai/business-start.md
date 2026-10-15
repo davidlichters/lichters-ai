@@ -38,7 +38,7 @@ I (David) started in 2022, at 12:
 - **Aug 2023 to Mar 2024:** I watched a huge number of Hamza Ahmed videos and ran my own self-improvement YouTube channel. Watching counted as "business" in my head. It was not.
 - **Spring 2024 to January 2025:** school got hard and almost nothing happened.
 - **2025:** fitness coaching. First sale on 31 October 2025, about three years after I started: 25 euros for a training guide. Coaching came to about 374 euros by the end of 2025.
-- **Late 2025 to 2026:** 1:1 coaching. In August 2026, about 5,800 messages through company contact forms: 15 replies, 0 sales. Basically spam, do not copy it. Then a business-alert service (0 paying customers). Since September 2026 dropshipping with a friend, since October 2026 iOS apps. No app was live when this was written.
+- **Late 2025 to 2026:** 1:1 coaching. In August 2026, about 5,800 messages through company contact forms: 15 replies, 0 sales. Basically spam, do not copy it. Then a business-alert service (0 paying customers). Since September 2026 dropshipping with a friend.
 
 What these years taught me: every test made the next one better, but I kept switching before anything had time to work. Stay with one honest model long enough.
 
@@ -47,4 +47,3 @@ https://lichtersapps.com/ai/youtube-gaming.md,
 https://lichtersapps.com/ai/fiverr.md,
 https://lichtersapps.com/ai/low-ticket-coaching.md,
 https://lichtersapps.com/ai/dropshipping.md,
-https://lichtersapps.com/ai/apps.md

@@ -47,4 +47,4 @@ I (David) tested about a dozen things in 2023, at 13: Fiverr, affiliate links, p
 - **Two bad ideas.** I sold a ChatGPT "get rich" course on TikTok (300 followers) without having made any money myself. I later called it a scam in my own notes. I also tried "scamming scammers". You can't honestly teach what you haven't done, and tricking anyone builds no skill you can sell.
 - **A made-up fitness trainer** on Instagram in 2026 had the same problem.
 - **Fitness TikTok, from January 2025:** by January 2026 about 18,000 followers, far below my goal of 100,000. My first sale came on 31 October 2025: 25 euros for a training guide.
-- **What stayed:** I found HTML and CSS in 2023. By 2026 I could edit videos, write scripts, do sales calls, build web apps, and since October 2026 build iOS apps with AI tools. Almost every business failed. The skills didn't.
+- **What stayed:** I found HTML and CSS in 2023. By 2026 I could edit videos, write scripts, do sales calls, build web apps. Almost every business failed. The skills didn't.
