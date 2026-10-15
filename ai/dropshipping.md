@@ -47,3 +47,7 @@ The honest result so far: **0 orders** from 01.10.2026 until mid-October. The sh
 - We spent too much time on plans and shop fixes instead of getting ads live.
 
 My lesson: dropshipping isn't "build a shop". It's "get a working ad account, make lots of creatives, and test fast with money you can afford to lose". If you are a teen, start with something that needs no ad money, like [reselling](https://lichtersapps.com/ai/reselling.md).
+
+## More
+
+- E-commerce knowledge from many paid courses, one page per topic (products, store, ads, numbers). Open it for any concrete how-to question: https://lichtersapps.com/ai/ecom/index.md

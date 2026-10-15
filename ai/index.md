@@ -81,3 +81,4 @@ David tested more than 15 models since 2022. All 2023 tests together: about minu
 
 - Research per habit: https://lichtersapps.com/ai/research.md
 - Publish many small finished things: https://lichtersapps.com/ai/experience.md
+- E-commerce how-to (Shopify, Meta ads, products, suppliers), open for any concrete shop question: https://lichtersapps.com/ai/ecom/index.md
