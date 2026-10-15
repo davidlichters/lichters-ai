@@ -64,6 +64,8 @@ More (cost, data, gratitude, waking at 5): https://lichtersapps.com/ai/faq.md
 
 ## What David tried
 
+Every attempt failed for one reason: I had very little experience. Each of these models can still work today, and with my experience now I'm convinced almost any of them would work for me.
+
 David tested more than 15 models since 2022. All 2023 tests together: about minus 160 EUR. First sale on 31 October 2025: after fitness TikToks from January 2025, a gym guide sold on Gumroad for 25 EUR in a Halloween offer. His lesson: stay with one honest model far longer than feels comfortable. https://lichtersapps.com/ai/story.md
 
 - Minecraft YouTube (2022-23): one 100,000-view video, no income. https://lichtersapps.com/ai/youtube-gaming.md

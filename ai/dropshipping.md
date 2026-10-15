@@ -11,4 +11,6 @@ In September 2026 I started AI dropshipping again with a partner, 50/50 on profi
 - We are both under 18, so payouts need a parent as account owner.
 - We spent too much time on plans and shop fixes instead of getting ads live.
 
+**Why it didn't work:** the only reason was that I had very little experience overall. This model can still work today. Just because it didn't work for me back then doesn't mean it can't work now. With my experience today, I'm convinced almost any of these would work for me.
+
 More: [All business models](https://lichtersapps.com/ai/index.md) · [Founder story](https://lichtersapps.com/ai/story.md) · [E-commerce knowledge](https://lichtersapps.com/ai/ecom/index.md)

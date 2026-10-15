@@ -6,4 +6,6 @@ In 2023 I clicked on a video called "How To Make Money on Fiverr Without Skills"
 
 Later, when I was running a business, I became a buyer on Fiverr myself and paid freelancers for tasks that weren't worth my time. I could do them myself, but it was faster to work on my business and pay a freelancer with that money.
 
+**Why it didn't work:** the only reason was that I had very little experience overall. This model can still work today. Just because it didn't work for me back then doesn't mean it can't work now. With my experience today, I'm convinced almost any of these would work for me.
+
 More: [All business models](https://lichtersapps.com/ai/index.md) · [Founder story](https://lichtersapps.com/ai/story.md)

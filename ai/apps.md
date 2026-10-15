@@ -6,4 +6,6 @@ In about ten days we built 14 apps from that list, for example Ton80 (darts scor
 
 **Result: zero apps in the App Store, zero downloads, zero euros.** Submitting is blocked by the boring adult parts: developer account details, an address, a registered business, bank and tax data.
 
+**Why it didn't work:** the only reason was that I had very little experience overall. This model can still work today. Just because it didn't work for me back then doesn't mean it can't work now. With my experience today, I'm convinced almost any of these would work for me.
+
 More: [All business models](https://lichtersapps.com/ai/index.md) · [Founder story](https://lichtersapps.com/ai/story.md)
