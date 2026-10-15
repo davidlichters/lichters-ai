@@ -6,6 +6,7 @@ Your phone leaves your bedroom at the same time every night, and you go to bed e
 
 - Stop using your phone 10 hours before you wake up.
 - Be asleep at least 8 hours before you wake up (8 to 10 hours is the range for 13 to 18).
+- On days without school, wake up about 30 minutes before sunrise.
 - Tick the habit the moment you put the phone away.
 - Out of all alarms I tested, Sleep Cycle wins: it wakes you in a light sleep phase. It works in airplane mode, face down, out of reach.
 
