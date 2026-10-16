@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Add a friend on Lichters</title>
+<meta property="og:title" content="Add me as a friend on Lichters">
+<meta property="og:description" content="Tap to send a friend request in Lichters.">
+<meta name="robots" content="noindex">
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; background: #fff; color: #000;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+    display: flex; align-items: center; justify-content: center; padding: 24px 16px;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { width: 100%; max-width: 420px; text-align: center; }
+  h1 { font-size: 28px; line-height: 1.2; font-weight: 700; letter-spacing: -0.5px; margin: 0 0 28px; }
+  .id { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  a.button {
+    display: block; background: #007AFF; color: #fff; text-decoration: none;
+    font-size: 17px; font-weight: 600; padding: 16px; border-radius: 14px;
+  }
+  a.button:active { opacity: 0.8; }
+  p.small { margin: 18px 0 0; font-size: 13px; color: #8e8e93; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Open Lichters to send a friend request to <span class="id" id="who">this person</span></h1>
+  <a class="button" id="open" href="lichters://add">Open in Lichters</a>
+  <p class="small">Don't have Lichters yet? Ask the person who sent this link.</p>
+</main>
+<script>
+  (function () {
+    var id = (new URLSearchParams(location.search).get("id") || "").replace(/\D/g, "");
+    if (!/^\d{8}$/.test(id) || id === "00000000") { return; }
+    document.getElementById("who").textContent = id.slice(0, 4) + " " + id.slice(4);
+    var link = "lichters://add?id=" + id;
+    document.getElementById("open").href = link;
+    setTimeout(function () { location.href = link; }, 300);
+  })();
+</script>
+</body>
+</html>
