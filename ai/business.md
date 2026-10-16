@@ -23,7 +23,7 @@ Tick **b** when you did 5+ focused hours on your own business today.
 ## How to start
 
 1. **Pick one model, not five.** Read https://lichtersapps.com/ai/business-start.md first.
-2. **Fix the time.** The same time every day works best. If you have a Courage task (c), do it right before.
+2. **Fix the time.** The same time every day works best. Put your scariest ask (a customer, a pitch, a question) at the start.
 3. **Write one sentence before you start:** "In these 5 hours I will ___." One clear result, like "post 1 video" or "message 10 possible customers". An example split: 1 hour finding customers, 3 hours building or selling, 1 hour talking to people.
 4. **Start the timer, phone away.**
 5. **Stop and write one line:** what you did, and one number (videos, people asked, sales, euros).
@@ -37,11 +37,30 @@ https://lichtersapps.com/ai/low-ticket-coaching.md,
 https://lichtersapps.com/ai/print-on-demand.md,
 https://lichtersapps.com/ai/vending-machine.md
 
+## The scary part: asking
+
+Most business is asking: asking someone to buy, to give feedback, to try what you built, or for advice. Many teens build for weeks to avoid that moment. Do the ask inside your business hours, not "someday".
+
+- **People notice you much less than you think.** Students wearing an embarrassing T-shirt guessed half the room noticed. Really it was about a quarter (Gilovich, 2000, the spotlight effect). https://doi.org/10.1037/0022-3514.78.2.211
+- **Practice works fast.** People who talked to strangers again and again for one week became less afraid of rejection, and it still held a week later (Sandstrom and others, 2022). https://sussex.figshare.com/articles/journal_contribution/Talking_to_strangers_a_week-long_intervention_reduces_psychological_barriers_to_social_connection/23490227
+- **A "no" usually costs nothing.** You are exactly where you were before.
+
+How:
+
+1. **Write your first sentence down.** The first five seconds are the hardest.
+2. **Count asks, not yeses.** A "no" still moved you forward.
+3. **Keep a list of 20 names.** One no means you go to the next.
+4. **Follow up once.** No reply is not a no.
+5. **Never dangerous, never mean, never fake.** No made-up persona, fake age or fake reviews.
+
+You feel ready after you asked, not before. In October 2025 I told myself to post 10 cringe videos on purpose until the fear went away. My first sale came that month.
+
 ## Mistakes
 
 - **Switching every few weeks.** The most common reason people stay at zero.
 - **Learning instead of doing.** Videos only count if you use them the same day.
 - **Building without customers.** Talk to people who would pay before you build for weeks.
+- **Hiding behind a machine.** Hundreds of automatic messages skip the scary part and turn into spam. One honest ask in person beats a thousand hidden ones.
 - **Shortcuts that hurt people.** Spam, fake reviews, pretending to be someone else, betting, "get rich quick" schemes. They fail and can get you banned.
 - **Trading sleep for work.** Business fits inside a good day, not instead of one. Keep your 8 to 10 hours.
 

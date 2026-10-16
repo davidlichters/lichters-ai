@@ -14,7 +14,7 @@ A check-in is a tiny conversation, not a lecture. Someone asks you the same few 
 
 ## How to start
 
-**1. Do the setup once.** For each habit (f, c, b, t, o, s), write one line: what counts as done (the app's rule, not a softer one), the time, the place, and the one thing most likely to stop you plus your plan for it.
+**1. Do the setup once.** For each habit (f, e, b, t, o, s), write one line: what counts as done (the app's rule, not a softer one), the time, the place, and the one thing most likely to stop you plus your plan for it.
 
 Example for b: "5 focused hours: 14:00 to 17:00 and 19:30 to 21:30, desk in my room, phone in the kitchen. Danger: YouTube on the laptop. Plan: block it during the timer."
 
@@ -24,7 +24,7 @@ Example for b: "5 focused hours: 14:00 to 17:00 and 19:30 to 21:30, desk in my r
 - For each miss: what got in the way, in one sentence?
 - What is my one next action for today, with a time and a place?
 
-**3. End with one action, not a list.** If you missed Courage three days in a row, the action is not "be brave". It is "ask the bakery owner at 15:30 if they want help with their Instagram".
+**3. End with one action, not a list.** If you missed Eating three days in a row, the action is not "eat better". It is "put two apples and a carrot in your bag tonight at 21:00".
 
 **4. With an AI: start a new chat for every check-in.** Paste your setup note plus today's answers. A long chat uses up your limit faster, because the whole history is read again.
 

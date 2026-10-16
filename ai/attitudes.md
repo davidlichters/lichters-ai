@@ -4,7 +4,7 @@ Habits are what you tick every day. Attitudes are the rules you never have to de
 
 ## What it is
 
-Lichters has six daily habits: Friends, Courage, Business, Training, Offline and Sleep. The five attitudes are not ticked. They sit underneath the habits and protect them.
+Lichters has six daily habits: Friends, Eating, Business, Training, Offline and Sleep. The five attitudes are not ticked. They sit underneath the habits and protect them.
 
 ## The five attitudes
 

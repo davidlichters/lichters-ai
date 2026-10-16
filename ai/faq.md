@@ -16,11 +16,11 @@ Yes, if you spend the 5+ focused hours building one: looking for a problem peopl
 
 ## Why these six habits?
 
-The goal is the happiest whole life, not just the happiest teen years. So the list mixes things that pay off now (friends, sleep, training) with things that pay off over decades (business, courage). Each has a page with the research, for example https://lichtersapps.com/ai/friends.md and https://lichtersapps.com/ai/sleep.md
+The goal is the happiest whole life, not just the happiest teen years. So the list mixes things that pay off now (friends, sleep, training) with things that pay off over decades (business, eating). Each has a page with the research, for example https://lichtersapps.com/ai/friends.md and https://lichtersapps.com/ai/sleep.md
 
 ## How do I fit all six into a school day?
 
-An example: up at 7:00. Lunch with friends, phones away (f). One ask during the day (c). 14:00 to 17:00 Business, phone in another room (b). 17:00 gym or sport (t). 19:30 to 21:30 Business again (b). Feeds only after the ticks, under 30 minutes (o). 21:30 phone out of the bedroom (s).
+An example: up at 7:00. Lunch with friends, phones away (f). Fruit or vegetables at every meal, water to drink (e). 14:00 to 17:00 Business, phone in another room (b). 17:00 gym or sport (t). 19:30 to 21:30 Business again (b). Feeds only after the ticks, under 30 minutes (o). 21:30 phone out of the bedroom (s).
 
 ## Can I change or add habits?
 
@@ -45,10 +45,6 @@ Yes, if your phone is away and you're actually talking. Family counts too.
 ## What counts as a feed for o?
 
 Endless streams picked for you: TikTok, Reels, Shorts, Stories, X, Reddit. Messaging a real person doesn't count. Details: https://lichtersapps.com/ai/offline.md
-
-## Is it okay if Courage feels scary?
-
-That's the point. Pick something useful where you might hear a no: ask a customer, invite someone, speak up in class. Never dangerous or mean. More: https://lichtersapps.com/ai/courage.md
 
 ## What does it cost?
 

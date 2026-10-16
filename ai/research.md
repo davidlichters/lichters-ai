@@ -1,6 +1,6 @@
 # The research behind Lichters
 
-Friends, Training and Sleep rest on strong research. Offline rests on good but newer research. Courage and Business are mostly judgment, and this page says so.
+Friends, Training and Sleep rest on strong research. Offline and Eating rest on good research, but it observes people and does not prove cause. Business is mostly judgment, and this page says so.
 
 "Sure" means large studies agree. "Medium" means good but fewer studies. "Judgment" means it fits the research, but nobody tested this exact rule.
 
@@ -30,12 +30,11 @@ Friends, Training and Sleep rest on strong research. Offline rests on good but n
 - **Hunt, 2018.** Students who cut social media to about 30 minutes a day felt less lonely and less depressed. This is where the 30 minutes comes from. https://doi.org/10.1521/jscp.2018.37.10.751
 - **Castelo and others, 2025.** Two weeks without mobile internet improved mental health, wellbeing and measured attention. https://doi.org/10.1093/pnasnexus/pgaf017
 
-## Courage: judgment
+## Eating: medium
 
-- **Gilovich, 2000.** Students in an embarrassing T-shirt guessed half the room noticed. Really it was about a quarter. https://doi.org/10.1037/0022-3514.78.2.211
-- **Sandstrom and others, 2022.** A week of talking to strangers lowered fear of rejection, and it lasted. https://sussex.figshare.com/articles/journal_contribution/Talking_to_strangers_a_week-long_intervention_reduces_psychological_barriers_to_social_connection/23490227
+- **Aune and others, 2017, International Journal of Epidemiology.** A review of 95 studies: about 800 g of fruit and vegetables a day went with a roughly 31% lower risk of dying early. That is about 10 handfuls, so 5+ is the start. https://doi.org/10.1093/ije/dyw319
 
-"One scary useful thing a day" itself has not been tested.
+This study observes people, so it shows a link, not proof. Water instead of soda is judgment, not tested here.
 
 ## Business and money: judgment
 
@@ -43,6 +42,8 @@ Friends, Training and Sleep rest on strong research. Offline rests on good but n
 - **Ruberton, 2016.** Savings you can reach predicted life satisfaction beyond income and debt. https://discovery-pp.ucl.ac.uk/id/eprint/1519781
 - **Dittmar, 2014.** People who make money and things their life goal are less happy on average. https://research.brighton.ac.uk/en/publications/the-relationship-between-materialism-and-personal-well-being-a-me/
 - **Azoulay and others, 2020.** Founders of the fastest-growing firms were 45 on average, and industry experience predicted success. https://www.ipr.northwestern.edu/our-work/working-papers/2018/wp-18-11.html
+- **Gilovich, 2000.** For the scary part of business, asking: students in an embarrassing T-shirt guessed half the room noticed. Really it was about a quarter. https://doi.org/10.1037/0022-3514.78.2.211
+- **Sandstrom and others, 2022.** A week of talking to strangers lowered fear of rejection, and it lasted. https://sussex.figshare.com/articles/journal_contribution/Talking_to_strangers_a_week-long_intervention_reduces_psychological_barriers_to_social_connection/23490227
 
 No study shows "5+ hours a day on your own business as a teen" makes you happier. It is a bet.
 
@@ -57,4 +58,4 @@ No study shows "5+ hours a day on your own business as a teen" makes you happier
 
 **MYRIAD:** mindfulness lessons in 85 schools (about 8,400 teens) did no better than normal lessons. https://arc-sw.nihr.ac.uk/?p=39416
 
-More on each habit: https://lichtersapps.com/ai/friends.md, https://lichtersapps.com/ai/training.md, https://lichtersapps.com/ai/sleep.md, https://lichtersapps.com/ai/offline.md, https://lichtersapps.com/ai/courage.md, https://lichtersapps.com/ai/business.md, https://lichtersapps.com/ai/attitudes.md
+More on each habit: https://lichtersapps.com/ai/friends.md, https://lichtersapps.com/ai/training.md, https://lichtersapps.com/ai/sleep.md, https://lichtersapps.com/ai/offline.md, https://lichtersapps.com/ai/eating.md, https://lichtersapps.com/ai/business.md, https://lichtersapps.com/ai/attitudes.md

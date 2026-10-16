@@ -28,7 +28,7 @@ Tick **f** when you spent at least 1 hour of real time with friends or family to
 5. **Get them talking.** Listen more than you talk.
 6. **Remember names and come back.** The second and third conversation are where a friendship starts.
 7. **Join something.** A club, a team, a choir. Seeing the same people every week does most of the work.
-8. **Invite people.** "Want to go to the gym together?" Asking can feel scary, which is why it also counts for **c** (Courage). If you are under 18, tell your parents who you are meeting and where.
+8. **Invite people.** "Want to go to the gym together?" If you are under 18, tell your parents who you are meeting and where.
 
 ## Mistakes
 
@@ -45,5 +45,3 @@ When I was 14, I wrote a note called "find friends" with rules like "always smil
 Before a school year abroad in Canada, I made a real plan: smile at everyone, introduce myself, talk to 3 new people every day, join clubs, remember names, invite people over. The first weeks I wrote that I didn't really like anyone there yet. A week later I had someone who became my best friend there, and I got him to come to the gym every day. The 3-people-a-day plan worked.
 
 The honest other side: for over three years my tracker showed Business done almost every day, and most other habits nearly empty, including friends. Today I am no longer friends with anyone from a gratitude list I wrote in 2023. One friend I had known since kindergarten spent years calling my goals dumb and embarrassing, and we are not friends anymore. Today my close people are my parents, my grandma and a couple of friends. That is why **f** is on this list.
-
-Related: https://lichtersapps.com/ai/courage.md
