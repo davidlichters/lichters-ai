@@ -36,16 +36,23 @@
 </main>
 <script>
   (function () {
-    var id = (new URLSearchParams(location.search).get("id") || "").replace(/\D/g, "");
+    var params = new URLSearchParams(location.search);
+    var id = (params.get("id") || "").replace(/\D/g, "");
     if (!/^\d{8}$/.test(id) || id === "00000000") { return; }
+    // Vorname der einladenden Person (&n=), sonst die Nummer
+    var name = (params.get("n") || "").replace(/\s+/g, " ").trim().slice(0, 30);
     var who = document.createElement("span");
-    who.className = "id";
-    who.textContent = id.slice(0, 4) + " " + id.slice(4);
+    if (name) {
+      who.textContent = name;
+    } else {
+      who.className = "id";
+      who.textContent = id.slice(0, 4) + " " + id.slice(4);
+    }
     var wrap = document.getElementById("who-wrap");
     wrap.textContent = "friend request to ";
     wrap.appendChild(who);
     // Kein automatischer Sprung: ohne App zeigt Safari sonst "address is invalid" vor dem Hinweis
-    document.getElementById("open").href = "lichters://add?id=" + id;
+    document.getElementById("open").href = "lichters://add?id=" + id + (name ? "&n=" + encodeURIComponent(name) : "");
   })();
 </script>
 </body>
