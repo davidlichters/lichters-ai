@@ -1,10 +1,10 @@
 # Friends
 
-Spend one hour a day with friends or family, with your phone away. Of everything you can do as a teen, this one most likely matters most for how happy your whole life turns out.
+Spend one hour a day with friends or family, without scrolling. Of everything you can do as a teen, this one most likely matters most for how happy your whole life turns out.
 
 ## The rule
 
-Tick **f** when you spent at least 1 hour of real time with friends or family today, phone away.
+Tick **f** when you spent at least 1 hour of real time with friends or family today, without scrolling. A quick text or a bit of work on the side is fine, TikTok or Instagram is not.
 
 - Breaks and lunch at school count, if you actually talk to people.
 - Sitting in class next to someone does not count.
@@ -22,7 +22,7 @@ Tick **f** when you spent at least 1 hour of real time with friends or family to
 ## How to start
 
 1. **Pick your hour.** Lunch, the walk home, training with a teammate, dinner with your family.
-2. **Phone in your bag, not on the table.**
+2. **No feeds while you are together.**
 3. **Sit with a group.** If you see people you half know, ask "Can I sit here?"
 4. **Talk to new people on purpose.** A simple target: say hi to 3 new people a day. Smile, say your name, ask one question about them.
 5. **Get them talking.** Listen more than you talk.
