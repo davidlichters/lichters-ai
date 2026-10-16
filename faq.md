@@ -60,4 +60,4 @@ No. A month with mostly green beats a year of planning the perfect routine. The 
 
 ## What is my Lichters ID?
 
-Every Lichters user gets a number, starting with 0000 0001. It is linked to your iCloud account, so there is no sign-up and it stays the same on all your devices. Your ticks are saved with this number, not your name. Friends you accept can see your grid. The developer can look up a number to help with problems. Find your ID in the Guide, right under the WhatsApp contact.
+Every Lichters user gets a number, starting with 0000 0001. It is linked to your iCloud account, so there is no sign-up and it stays the same on all your devices. Your ticks are saved with this number, not your name. Friends you accept can see your grid. The developer can look up a number to help with problems. Your grid is stored encrypted, so no one else can open it. Find your ID in the Guide, right under the WhatsApp contact.
