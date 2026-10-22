@@ -52,7 +52,7 @@ Nothing. Lichters is completely free. There are no ads and nothing to buy.
 
 ## What happens to my data?
 
-Your ticks are saved on your phone and, if you use iCloud, in your own private iCloud so they sync between your devices.
+Your ticks are saved on your phone and, if you use iCloud, in your own private iCloud so they sync between your devices. Your ticks and your name are also stored encrypted in the app's public iCloud database, so friends you accept can see your grid.
 
 ## Do I have to be perfect?
 
@@ -60,4 +60,4 @@ No. A month with mostly green beats a year of planning the perfect routine. The 
 
 ## What is my Lichters ID?
 
-Every Lichters user gets a number, starting with 0000 0001. It is linked to your iCloud account, so there is no sign-up and it stays the same on all your devices. Your ticks are saved with this number, not your name, and stored encrypted. Friends only see your grid after you accept them. Support (me, David) can see every grid, so I can help when something goes wrong. Find your number at the top of the Guide: tap "Lichters". "Copy invite link" gives you a link for WhatsApp; whoever taps it sends you a friend request.
+Every Lichters user gets a number, starting with 0000 0001. It is linked to your iCloud account, so there is no sign-up and it stays the same on all your devices. Your ticks are saved with this number and your name in one encrypted record. Friends only see your grid after you accept them. Support (me, David) can also see your grid, so I can help when something goes wrong. To add a friend, tap "Lichters" to open the Guide, then "Invite a friend to see your habits". You get a link to send on WhatsApp or Messages; whoever taps it sends you a friend request.
